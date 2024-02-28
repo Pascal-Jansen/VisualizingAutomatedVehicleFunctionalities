@@ -1,0 +1,103 @@
+ProlificID,Age,Gender,Education,Job,License,DrivingFrequency,Distance,InterestQ1,InterestQ2,InterestQ3
+6298d20b980818fad3ef7562,35,Male,High school,Employee,16,Daily,7.000 - 14.999 km,4,4,4
+60f0ac78a56e78eb3b025b5c,27,Female,High school,Employee,9,3-4 times a week,33.000 km or more,1,1,3
+4bbb7385978a1305eda5be78,21,Male,College,Student (college),4,3-4 times a week,7.000 - 14.999 km,4,2,1
+629e47d83dfabc581853d37e,27,Female,College,Student (college),5,1-3 times a month,7.000 - 14.999 km,3,3,4
+58dd769642b8e500017159d5,24,Female,College,Employee,0,less than 1 time a month,less than 7.000 km,2,3,4
+605776c7ffd8cb64476fc73f,40,Female,College,Self-employed,24,Daily,7.000 - 14.999 km,4,3,5
+61689c30bfe5ddeaa8ed5fe0,20,Female,High school,Student (college),3,Daily,33.000 km or more,5,5,4
+607f06aa188579a205a54d81,51,Male,College,Employee,35,Daily,7.000 - 14.999 km,5,4,4
+629107ce74eade0be2dd0ed5,66,Male,High school,Self-employed,50,Daily,7.000 - 14.999 km,1,1,2
+5f2405d1223bfd0576b05987,28,Female,College,Employee,10,Daily,15.000 - 24.999 km,3,4,2
+5fc535c343622e000bc9f3c4,29,Male,High school,Employee,11,Daily,15.000 - 24.999 km,3,4,4
+59f24b04cde13e00019a3e82,34,Male,College,Employee,18,less than 1 time a month,less than 7.000 km,5,5,5
+608a3af1093571af0fb3bc58,33,Female,College,Employee,15,3-4 times a week,7.000 - 14.999 km,3,4,4
+629a6460a0232815dab01a01,31,Female,College,Jobseeker,10,less than 1 time a month,less than 7.000 km,1,5,2
+5fdbc1486bfb6302e27cc1d8,23,Female,College,Jobseeker,6,3-4 times a week,7.000 - 14.999 km,4,3,3
+59f66d8f7086f8000194141c,21,Non-binary,High school,other,1,less than 1 time a month,less than 7.000 km,3,5,3
+60f32446bc4e09f52b37a56d,73,Male,High school,other,55,3-4 times a week,less than 7.000 km,3,4,4
+628bbe2c0f8080e6985e8592,26,Male,College,Employee,9,Daily,7.000 - 14.999 km,4,5,5
+60eca5ab2b6bdd54889bc226,22,Female,College,Jobseeker,3,3-4 times a week,less than 7.000 km,2,4,5
+627126fc1702ec104f01f260,52,Female,College,Employee,34,Daily,15.000 - 24.999 km,1,2,5
+6107e9674f4e5369306447f1,22,Female,College,Student (college),6,Daily,7.000 - 14.999 km,3,4,4
+5f46b43e8276ea0641f13e79,51,Female,College,Employee,35,Daily,7.000 - 14.999 km,5,3,5
+6123437590813a40d1fad393,20,Female,College,Student (college),0,Daily,7.000 - 14.999 km,2,2,3
+62e12eafa1f5eeafaf30f23b,26,Male,College,Student (college),10,on working days,7.000 - 14.999 km,3,4,3
+62dba56d9cf3cede76a8f601,31,Male,Vocational Training,Employee,11,Daily,25.000 - 32.999 km,5,5,3
+60f83b167c76803d88b92d53,51,Male,College,Employee,35,3-4 times a week,25.000 - 32.999 km,3,1,3
+5a6032228e625900017657f4,29,Male,College,Self-employed,13,1 time a week,15.000 - 24.999 km,5,5,3
+630a442e06c3cec26c14a189,28,Male,College,Employee,10,on working days,25.000 - 32.999 km,3,3,3
+5c1c74700036a80001193c24,35,Male,College,Self-employed,20,Daily,7.000 - 14.999 km,5,5,3
+60fccb5af75e8814b578841c,21,Female,College,Employee,1,on working days,less than 7.000 km,2,2,4
+59d52d7821977e0001d63082,64,Female,College,Self-employed,45,less than 1 time a month,less than 7.000 km,2,2,3
+5e2539fedc1a177a63796efc,59,Female,High school,other,40,1 time a week,less than 7.000 km,2,3,5
+5d9be99fdacf6100182bf254,35,Male,High school,other,0,less than 1 time a month,less than 7.000 km,5,5,5
+62fd5bff0a265a4ecceedf87,27,Non-binary,High school,Self-employed,0,less than 1 time a month,less than 7.000 km,3,2,4
+62743aeb9ef8628d06ec5a75,52,Male,College,Self-employed,35,Daily,7.000 - 14.999 km,5,5,4
+5c630bf6787ee80001ffb964,66,Female,College,other,25,1-3 times a month,7.000 - 14.999 km,3,3,4
+5fb9402d4e110a7750fd2642,56,Female,College,Employee,40,Daily,33.000 km or more,2,3,4
+5e79448b2645050ebe52051c,59,Male,College,other,43,3-4 times a week,less than 7.000 km,2,3,4
+6116876a64aadf8649c181a8,26,Female,College,Employee,10,Daily,15.000 - 24.999 km,2,3,4
+62fd17440d5147b43183b0aa,54,Male,College,other,35,Daily,less than 7.000 km,5,5,5
+602084a1e5330d6c7ad1d17e,64,Female,College,Self-employed,48,1 time a week,less than 7.000 km,1,5,1
+5de96ccf7aeafe09d7e8a74a,54,Male,College,Jobseeker,36,1 time a week,7.000 - 14.999 km,3,3,5
+62fe7fcc250311d93a7d6268,61,Male,Secondary school,Self-employed,44,Daily,33.000 km or more,5,5,5
+60204556a5fe01622758e71d,48,Male,College,Employee,5,on working days,7.000 - 14.999 km,4,4,5
+5be8eb4d40b06b0001372c77,51,Female,College,Self-employed,35,3-4 times a week,7.000 - 14.999 km,5,5,5
+5da13684f2f41900141644bf,63,Female,College,other,35,Daily,33.000 km or more,1,3,4
+61009e5b415d7b1a97130cb5,40,Female,College,Employee,24,Daily,7.000 - 14.999 km,3,3,3
+5a7e3a488fe2dc000105c23c,25,Female,College,Employee,8,Daily,7.000 - 14.999 km,3,4,2
+5d305152b2cfe00019231a2a,30,Male,College,Jobseeker,14,3-4 times a week,7.000 - 14.999 km,4,4,2
+58578946c41fd90001434680,67,Male,College,other,51,Daily,15.000 - 24.999 km,4,4,4
+61042c227fcf24751acd9a28,33,Male,Vocational Training,Self-employed,17,3-4 times a week,15.000 - 24.999 km,3,4,4
+60463896f9a82809f6eda231,45,Male,College,Employee,29,Daily,7.000 - 14.999 km,3,3,3
+5f4b395013fe2f6ffcd95151,31,Male,High school,Employee,7,Daily,7.000 - 14.999 km,3,4,3
+60c7af606ba051b42a91d3ff,53,Male,College,Employee,38,Daily,15.000 - 24.999 km,4,4,5
+58e79ac632bebb0001b741ec,47,Female,College,Employee,22,3-4 times a week,7.000 - 14.999 km,2,2,3
+5bae077b542eed0001384369,43,Female,High school,Self-employed,15,Daily,less than 7.000 km,1,2,2
+5dd9e1e0a4aa2696d9a15c0d,53,Male,College,Employee,35,Daily,7.000 - 14.999 km,3,3,3
+60b7e2e625f69678f2fe8912,31,Female,College,Employee,13,Daily,less than 7.000 km,5,5,5
+5d161a732982a300158d84cc,33,Female,College,Jobseeker,15,Daily,15.000 - 24.999 km,5,5,5
+56e130548b1c33000a388671,29,Male,High school,Employee,8,on working days,7.000 - 14.999 km,5,5,4
+611eb4e2eb8483596b39d46b,30,Female,College,Student (school),2,Daily,33.000 km or more,2,3,3
+5e8b414388ac1c80052bf196,28,Male,College,Employee,14,Daily,15.000 - 24.999 km,3,3,4
+63082a4deb2f6ec2382cc3fa,22,Male,High school,Student (college),3,3-4 times a week,25.000 - 32.999 km,4,2,1
+630c15ae6bebca06b5f79aae,18,Male,High school,Student (college),1,3-4 times a week,less than 7.000 km,3,3,4
+62ab399e15b98baaf3099d60,58,Male,College,Employee,40,on working days,25.000 - 32.999 km,5,5,5
+628e68a3c9d95b8cb7585324,20,Male,High school,Student (college),1,3-4 times a week,less than 7.000 km,3,4,4
+5bf9bd81549c180001dab194,67,Male,College,Self-employed,69,Daily,7.000 - 14.999 km,5,5,5
+61078972d4d5feb1d8b8a651,28,Female,College,Employee,12,Daily,15.000 - 24.999 km,2,3,3
+602b456e7cdd702772f52e13,44,Male,High school,Self-employed,28,Daily,33.000 km or more,4,3,3
+60babf4c7c71d5f89b4172de,58,Female,College,Self-employed,35,3-4 times a week,less than 7.000 km,1,1,1
+610058f21b82dddf45b44009,22,Male,High school,Student (school),2,3-4 times a week,15.000 - 24.999 km,5,5,5
+610e063896c52970e2c24bb5,19,Non-binary,College,Student (school),1,1-3 times a month,15.000 - 24.999 km,2,3,3
+5d506e6d4040a40016bb186a,76,Male,High school,other,60,Daily,7.000 - 14.999 km,1,1,3
+62eee9fbde439d5853ce2efb,21,Male,High school,Student (college),5,Daily,15.000 - 24.999 km,4,5,4
+5c79bc94d454af00160e2eee,31,Female,College,Employee,12,Daily,15.000 - 24.999 km,4,4,3
+62a96f8f6ab7e0c3ce90095f,21,Male,High school,Employee,2,Daily,7.000 - 14.999 km,2,3,4
+5d89a31c43734d0001b6a706,37,Female,High school,other,17,Daily,less than 7.000 km,2,2,3
+61138937023e260faf9d04b4,33,Female,College,Employee,3,less than 1 time a month,less than 7.000 km,5,5,5
+60fdc40f41e8e10a0ddabb22,27,Female,Vocational Training,Self-employed,10,on working days,33.000 km or more,4,4,4
+629531cb501e6d23d9797050,38,Male,College,Employee,22,on working days,15.000 - 24.999 km,4,5,2
+5cab7cc86d3a6e001519d9e9,33,Male,High school,other,0,less than 1 time a month,less than 7.000 km,5,5,3
+6306dd3ab2a5bf6b80c6e2de,23,Male,High school,Student (college),7,Daily,15.000 - 24.999 km,5,4,5
+5c6d5477e8833000015244ad,42,Male,College,Self-employed,21,less than 1 time a month,less than 7.000 km,5,5,5
+5d612ae16512d700159face7,37,Female,College,Employee,18,Daily,25.000 - 32.999 km,4,4,4
+5bfc5b7013b8e60001ae335e,22,Female,College,Jobseeker,5,Daily,15.000 - 24.999 km,4,4,4
+5dd9f0e719eecb97dfab7b48,46,Male,High school,other,22,Daily,33.000 km or more,5,5,5
+5ec4a156bc5aac3819ac52f2,28,Male,College,Student (college),4,on working days,7.000 - 14.999 km,2,2,4
+61731c0ef27028acbfbbf972,24,Male,College,Employee,4,Daily,33.000 km or more,5,5,5
+609b6c918ad180505fefd919,29,Female,College,other,10,less than 1 time a month,less than 7.000 km,2,3,3
+5f98ab718920801c578363ab,40,Female,Vocational Training,Employee,21,3-4 times a week,15.000 - 24.999 km,5,5,3
+62c97585c81636f2f16fbbb0,32,Male,College,Employee,16,3-4 times a week,7.000 - 14.999 km,4,4,4
+61699743bb6d44b1d978e630,24,Male,High school,Self-employed,0,less than 1 time a month,less than 7.000 km,1,1,3
+614e0825d40616c90ebc1d49,33,Male,College,Employee,15,Daily,15.000 - 24.999 km,5,5,3
+628f83dc5398c04bac86f9e6,37,Male,College,Employee,21,Daily,33.000 km or more,3,3,4
+5e9b443223881d04be740737,30,Female,College,Employee,12,on working days,15.000 - 24.999 km,2,3,4
+5d55d562e04e1c0001f5e682,31,Female,College,Employee,12,Daily,15.000 - 24.999 km,1,3,1
+6140d157b34095ebc86d65c1,54,Female,High school,other,37,3-4 times a week,less than 7.000 km,1,2,3
+60bff9298f56d55c8ecd9adf,31,Female,College,Employee,13,less than 1 time a month,less than 7.000 km,3,3,3
+5e09ffd8fa3d102a583771c1,34,Female,College,Self-employed,4,less than 1 time a month,less than 7.000 km,1,1,2
+5f6f738fef894f0dbf9839f8,32,Male,College,Employee,14,Daily,25.000 - 32.999 km,4,4,5
+6157d22b9998f96a77f41567,53,Female,College,Self-employed,38,1-3 times a month,less than 7.000 km,2,2,3
+614f89a9441723072040d4de,58,Male,College,Employee,42,on working days,15.000 - 24.999 km,4,4,4

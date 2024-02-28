@@ -1,0 +1,18 @@
+ProlificID,Age,Gender,Education,Job,License,DrivingFrequency,Distance,InterestQ1,InterestQ2,InterestQ3
+626a9e5bb23b1c5e6610d17b,48,Male,High school,other,32,Daily,15.000 - 24.999 km,3,3,4
+5e94b9964b34ff81dd869755,28,Female,College,Student (college),2,Daily,7.000 - 14.999 km,3,3,2
+62d127431d0760680c2e4458,20,Female,Secondary school,Student (college),2,3-4 times a week,15.000 - 24.999 km,3,3,3
+62ecae2ce56ea262113d808d,22,Male,College,Student (college),5,Daily,15.000 - 24.999 km,3,4,5
+1c083c2cb5d90fb38ae7af25,90,Female,Secondary school,Student (school),9,Daily,less than 7.000 km,1,1,1
+L25W04M99,23,Male,High school,Student (college),3,on working days,7.000 - 14.999 km,4,4,1
+A11N11F99,24,Female,College,Student (college),7,1-3 times a month,7.000 - 14.999 km,5,5,5
+S23M10M95,27,Male,College,Student (college),9,3-4 times a week,15.000 - 24.999 km,5,5,3
+M12K04F00,22,Female,High school,Student (college),4,on working days,less than 7.000 km,5,5,2
+M23B11M93,29,Male,College,Student (college),12,1 time a week,7.000 - 14.999 km,4,4,5
+P25K02F01,21,Female,High school,Student (college),4,1-3 times a month,less than 7.000 km,4,4,1
+E11N09M00,22,Male,College,Student (college),5,3-4 times a week,7.000 - 14.999 km,5,5,3
+C11N09M00,22,Male,College,Student (college),5,1 time a week,less than 7.000 km,5,5,4
+S23M12M99,22,Male,High school,Student (college),4,on working days,less than 7.000 km,4,4,1
+T26H03M98,24,Male,College,Student (school),7,less than 1 time a month,less than 7.000 km,3,5,1
+J11K11M97,24,Male,College,Employee,7,on working days,7.000 - 14.999 km,5,5,3
+E20B08F99,23,Female,College,Student (college),6,3-4 times a week,less than 7.000 km,5,5,4

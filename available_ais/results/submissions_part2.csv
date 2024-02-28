@@ -1,0 +1,25 @@
+ProlificID,AttentioncheckFails,Condition,SARTQ1,SARTQ2,SARTQ3,SARTQ4,SARTQ5,SARTQ6,SARTQ7,SARTQ8,SARTQ9,SARTQ10,TLXQ1,PSQ1,PSQ2,PSQ3,PSQ4,TQ1,TQ2,TQ3,TQ4,TQ5,TQ6,CSUSQ1,CSUSQ2,PQ1,PQ2,PQ3,PQ4,PQ5,PQ6,PQ7,PQ8,PQ9,PQ10,OQ1,OQ2,OQ3,OQ4,OQ5,OQ6,OQ7,OQ8,Feedback
+S28S07M03,0,Baseline,1,3,3,1,3,3,4,5,4,1,5,2,2,2,1,3,3,3,2,4,2,3,2,3,5,5,5,3,5,2,5,7,5,5,4,6,6,2,7,7,7,"Hoch interessant, hoffe nicht unsere Zukunft will selber fahren. :)"
+S28S07M03,0,Visualization,1,3,3,1,2,2,5,4,6,1,6,2,2,2,2,4,4,2,4,5,4,4,1,6,5,6,6,4,5,2,6,7,3,3,3,6,7,1,7,7,6,"Hoch interessant, hoffe nicht unsere Zukunft will selber fahren. :)"
+T18P09M95,0,Visualization,3,3,2,5,3,3,5,4,5,5,8,1,2,1,1,4,3,3,2,4,2,4,1,4,2,4,4,7,7,2,6,4,5,6,6,6,6,2,2,6,6,-
+T18P09M95,0,Baseline,2,2,3,6,5,5,4,2,2,6,14,2,2,2,2,4,4,2,2,2,2,1,1,6,5,6,6,7,7,2,6,2,2,6,2,2,2,1,6,6,6,-
+L18P09M99,0,Baseline,5,5,4,5,5,5,5,6,5,4,15,1,1,1,1,4,4,4,2,2,4,3,3,3,3,3,3,6,6,3,5,3,2,4,4,3,3,3,5,5,5,"blue signs on the highway were not recognized in the video(no visual yellow marking) and the trailer behind a car was not recognized, only the car was marked in blue once it was visible"
+L18P09M99,0,Visualization,5,5,5,6,5,6,4,6,5,4,15,1,1,1,1,4,4,4,1,4,2,3,2,4,5,3,5,6,6,1,6,3,5,6,5,5,4,2,4,6,6,"blue signs on the highway were not recognized in the video(no visual yellow marking) and the trailer behind a car was not recognized, only the car was marked in blue once it was visible"
+S06P11F66,0,Visualization,5,6,5,5,5,6,3,5,6,7,13,1,2,2,1,3,2,2,2,3,4,2,3,5,4,4,5,5,5,2,5,4,3,5,4,4,3,4,5,6,6,"some signs were not marked for example on that specified the maximal speed of 60 kmh, also a trailer behind a car was not marked, only the car itself was marked in blue"
+S06P11F66,0,Baseline,5,5,6,5,6,5,3,5,5,7,14,2,2,2,1,2,2,2,2,2,4,3,3,4,4,3,3,5,5,3,4,4,2,5,2,2,3,2,6,6,6,"some signs were not marked for example on that specified the maximal speed of 60 kmh, also a trailer behind a car was not marked, only the car itself was marked in blue"
+V13M02F97,0,Visualization,5,2,2,2,2,2,6,5,6,6,12,2,2,3,2,4,4,4,1,4,4,4,1,4,2,4,6,7,7,1,7,2,6,6,5,7,4,1,2,6,6,"Not all signs and vehicles are recognized "
+V13M02F97,0,Baseline,2,2,2,6,6,6,3,2,2,4,15,0,0,1,0,3,3,2,2,2,2,1,1,4,6,4,4,6,5,4,5,4,2,4,2,2,2,1,7,7,7,"Not all signs and vehicles are recognized "
+D18S07M00,0,Baseline,2,4,5,6,6,6,2,2,2,6,17,0,0,1,1,3,3,2,3,1,5,1,1,4,4,5,5,5,5,3,5,4,1,4,2,1,1,1,7,7,7,-
+D18S07M00,0,Visualization,3,5,5,3,3,3,5,6,6,4,12,2,2,2,1,3,4,4,2,4,2,5,1,6,3,5,4,5,6,3,5,2,5,5,5,6,5,1,3,6,7,-
+B10K05F00,0,Visualization,3,3,3,4,3,4,5,6,6,6,10,1,1,2,1,4,3,4,2,4,2,4,2,6,3,5,4,6,7,2,5,2,5,6,5,6,5,2,1,3,5,Nix
+B10K05F00,0,Baseline,4,4,4,6,6,5,2,2,2,4,15,0,-1,0,0,3,3,2,3,2,5,1,1,4,5,5,6,6,6,3,5,3,2,4,2,2,2,1,7,7,7,Nix
+A11D09F00,0,Baseline,3,4,4,6,6,5,2,1,1,6,16,-1,0,1,0,2,2,1,2,1,4,1,1,5,6,6,6,6,6,2,6,3,2,4,2,1,1,1,7,6,6,A
+A11D09F00,0,Visualization,5,4,5,4,4,3,5,5,5,5,11,2,2,2,2,4,4,4,2,4,2,4,1,6,3,5,4,6,6,2,6,2,6,5,5,6,6,2,2,2,5,A
+M27K10F40,0,Baseline,6,5,6,5,5,5,2,3,3,6,16,2,2,2,2,1,1,1,2,2,4,3,3,3,3,2,2,4,4,5,4,4,2,4,3,3,3,3,6,6,6,"car coming from the right at the beginning was not recognized very fast, if it hasn't stopped there may have been a crash"
+M27K10F40,0,Visualization,5,5,6,5,5,6,3,4,4,6,16,2,2,2,2,2,2,2,2,3,3,3,2,5,5,4,4,5,5,4,4,3,2,5,3,4,3,3,5,6,6,"car coming from the right at the beginning was not recognized very fast, if it hasn't stopped there may have been a crash"
+K08P05M02,0,Baseline,5,2,4,5,4,4,4,2,2,4,12,2,2,2,2,3,3,2,2,3,4,1,1,6,6,6,6,7,7,2,5,2,2,4,2,1,1,1,7,7,7,"Interesting study"
+K08P05M02,0,Visualization,4,5,6,5,6,6,2,7,7,4,12,2,1,3,2,4,4,4,2,5,2,5,1,5,4,6,5,7,7,2,6,2,6,6,6,7,7,2,3,5,6,"Interesting study"
+H15P05M63,0,Visualization,4,5,5,6,6,5,4,5,5,7,14,3,2,2,2,3,3,2,2,3,3,3,2,6,5,6,5,6,6,3,6,2,4,5,4,4,4,2,7,7,7,-
+H15P05M63,0,Baseline,1,5,5,6,5,6,4,4,5,7,15,3,2,2,2,2,2,1,2,3,4,3,2,3,3,2,4,5,5,3,4,4,2,4,3,2,3,1,7,7,7,-
+M28H04M87,0,Visualization,4,5,3,6,5,7,2,5,4,3,16,1,-1,1,1,2,2,2,4,1,5,2,5,1,2,1,1,2,2,6,2,7,2,1,1,2,2,3,6,6,7,"- Videoupload mit dem Smartphone nicht möglich______- Hinweis, dass man zwischen Upload und Bearbeitung mehr als 24h warten muss sollte prominenter sein______- Video in Querformat aufgenommen wurde in Hochformat angezeigt, evtl. daher auch falsches Tagging?______- Menge der Fragen auf einer Seite deutlich zu viel______- Fragen zu den Markierungen auf einem nicht markierten Video überflüssig und daher eigtl. nicht zu beantworten."
+M28H04M87,0,Baseline,1,6,3,5,5,6,5,5,5,3,17,-1,-1,0,1,3,2,2,2,2,5,3,3,1,1,1,1,1,1,3,3,3,1,3,1,1,3,1,7,7,7,"- Videoupload mit dem Smartphone nicht möglich______- Hinweis, dass man zwischen Upload und Bearbeitung mehr als 24h warten muss sollte prominenter sein______- Video in Querformat aufgenommen wurde in Hochformat angezeigt, evtl. daher auch falsches Tagging?______- Menge der Fragen auf einer Seite deutlich zu viel______- Fragen zu den Markierungen auf einem nicht markierten Video überflüssig und daher eigtl. nicht zu beantworten."

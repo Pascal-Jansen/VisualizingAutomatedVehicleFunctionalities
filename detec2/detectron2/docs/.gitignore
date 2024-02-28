@@ -1,0 +1,6 @@
+_build
+
+# no .md files from notes and tutorials because of technical problems
+
+notes/*.md
+tutorials/*.md
