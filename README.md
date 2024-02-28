@@ -38,7 +38,7 @@ You can also separately apply the semantic segmentation (Detectron2) and the ped
   - Replace `painter.py` in `detection-attributes-fields/openpifpaff_detection_attributes/datasets` with the version in the `other/` directory.
   - Update `painters.py` in `openpifpaf` using the file from `other/`.
   - If encountering a `FileNotFoundError`, copy `other/pedestrianError/` to the indicated directory.
-- **Usage Example**: `python -m openpifpaf.video --source [source.mp4] --video-output [output.mp4] --checkpoint openpifpaf_detection_attributes/models/mtlfields_32attributes_jaad.pt --video-dpi 150 --video-fps 25`
+- **Usage Example**: ```python -m openpifpaf.video --source [source.mp4] --video-output [output.mp4] --checkpoint openpifpaf_detection_attributes/models/mtlfields_32attributes_jaad.pt --video-dpi 150 --video-fps 25```
 
 ### Running the Detectron2 Model
 - **Installation and Setup**: Clone this repository or the [original Detectron2 repository](https://github.com/facebookresearch/detectron2). Follow the provided [installation steps](https://detectron2.readthedocs.io/en/latest/tutorials/install.html) for proper environment setup.
@@ -46,7 +46,7 @@ You can also separately apply the semantic segmentation (Detectron2) and the ped
 - Specific colors and categories defined in `video_visualizer.py line 276-292` and `visualizer.py line 215-218, 227-229`.
 - Adjusted alpha values to 0.2 for better visualization in `video_visualizer.py, visualizer.py`.
 - Text labels were removed in `visualizer.py line 743-749` for a cleaner output.
-- **Usage Example**: `python demo.py --config-file ./detec2/detectron2/configs/COCO-PanopticSegmentation//panoptic_fpn_R_101_3x.yaml --video-input [video-input.mp4] --output [output.mp4] --opts MODEL.WEIGHTS detectron2://COCO-PanopticSegmentation/panoptic_fpn_R_101_3x/139514519/model_final_cafdb1.pkl`
+- **Usage Example**: ```python demo.py --config-file ./detec2/detectron2/configs/COCO-PanopticSegmentation//panoptic_fpn_R_101_3x.yaml --video-input [video-input.mp4] --output [output.mp4] --opts MODEL.WEIGHTS detectron2://COCO-PanopticSegmentation/panoptic_fpn_R_101_3x/139514519/model_final_cafdb1.pkl```
 
 Important: Use the `MODEL.WEIGHTS` argument to ensure the model uses the correct trained weights.
 
