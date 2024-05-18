@@ -1,6 +1,8 @@
-# Visualizing Imperfect Scene Detection and Prediction in Automated Vehicles: Understanding Users’ Scepticism via User-Chosen Scenarios
+# Visualizing Imperfect Situation Detection and Prediction in Automated Vehicles: Understanding Users’ Perceptions via User-Chosen Scenarios
 
-Anonymized Authors
+### [Pascal Jansen*](https://scholar.google.de/citations?user=cR1_0-EAAAAJ), [Mark Colley*](https://scholar.google.de/citations?user=Kt5I7wYAAAAJ&hl=en), Tim Pfeifer and Enrico Rukzio
+
+*Joint First Authors
 
 ![teaser_user-uploaded-videos-with-overlays](https://github.com/Pascal-Jansen/VisualizingAutomatedVehicleFunctionalities/assets/28151101/aaa920e5-d388-4574-b8ba-d0f592238ca1)
 
