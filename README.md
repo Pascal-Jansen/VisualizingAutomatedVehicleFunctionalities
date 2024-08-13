@@ -1,5 +1,7 @@
 # Visualizing Imperfect Situation Detection and Prediction in Automated Vehicles: Understanding Users’ Perceptions via User-Chosen Scenarios
 
+#### Transportation Research Part F: Traffic Psychology and Behaviour, https://doi.org/10.1016/j.trf.2024.05.015
+
 ### [Pascal Jansen*](https://scholar.google.de/citations?user=cR1_0-EAAAAJ), [Mark Colley*](https://scholar.google.de/citations?user=Kt5I7wYAAAAJ&hl=en), Tim Pfeifer and Enrico Rukzio
 
 *Joint First Authors
@@ -70,3 +72,19 @@ python demo.py --config-file ./detec2/detectron2/configs/COCO-PanopticSegmentati
 Important: Use the `MODEL.WEIGHTS` argument to ensure the model uses the correct trained weights.
 
 For more detailed instructions and documentation, refer to the respective directories of each model within this repository.
+
+## Citation
+
+If you use insights or methodologies from our work, please cite:
+
+```latex
+@article{JansenVisualizing2024,
+  title={Visualizing imperfect situation detection and prediction in automated vehicles: Understanding users' perceptions via user-chosen scenarios},
+  author={Jansen, P. and Colley, M. and Pfeifer, T. and Rukzio, E.},
+  journal={Transportation Research Part F: Traffic Psychology and Behaviour},
+  volume={104},
+  pages={88-108},
+  year={2024},
+  doi={10.1016/j.trf.2024.06.004}
+}
+
